@@ -33,7 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
-
+| Colin Riley | cqr5347 | <https://github.com/cqr5347/Repo1/settings> |
 <br>
 
 # Integration of RStudio with Git
